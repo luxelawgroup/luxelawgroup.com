@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://luxelawgroup.com
-title: Luxe Law Group
+title: Luxe Law Group, APC
 email: info@luxelawgroup.com
 author: Luxe Law Group, APC
 description: > # "Write an awesome description for your new site here. 
@@ -27,8 +27,6 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: github
-    url: https://github.com/luxelawgroup
+    url: https://twitter.com/luxelawgroup
   - title: envelope
     url: mailto:ask@luxelawgroup.com
