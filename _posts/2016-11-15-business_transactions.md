@@ -3,8 +3,6 @@ layout: page
 title: Business Transactions
 img: BUSINESS_TRANSACTIONS.JPG
 permalink: /business_transactions/
-date:   2016-11-21 10:58:13
-categories: jekyll update
 ---
 
 - Create and maintain corporations, LLCs, LPs and professional corporations
