@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Legal Team
-img: LEGAL_TEAM.JPG
+img: BIO1.JPG
 permalink: /legal_team/
 ---
 
