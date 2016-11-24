@@ -11,7 +11,7 @@ Rachel Fetter has been a certified paralegal for three years, and is a Californi
 
 Prior to graduation, Rachel served as an intern for the California Attorney General’s Office in Oakland, California. There she reported to Senior Legal Specialists and reviewed documents for an Investigative Subpoena regarding a significant state-wide environmental case. She also developed a spreadsheet management system to organize physical document repositories. 
 
- After graduation, Rachel worked as an administrative assistant for the real estate firm Scheer Law Group, LLP. There she was responsible for case management research and client communications. She catalogued, indexed and archived recently closed case files. 
+After graduation, Rachel worked as an administrative assistant for the real estate firm Scheer Law Group, LLP. There she was responsible for case management research and client communications. She catalogued, indexed and archived recently closed case files. 
 
 Thereafter Rachel moved to Delfino Green & Green, a personal injury and workers’ compensation firm. She managed the entire operational client process for the attorneys. This included intake interviews, invoicing and collections, as well as hearings and case closing procedures. Rachel regularly engaged with key clients and opposing party counsel. She also reviewed and revised settlement offers for attorney approval. 
 
