@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Probate / Conservatorships
+img: PROBATE_CONSERVATORSHIP.JPG
 permalink: /probate_conservatorships/
 ---
 

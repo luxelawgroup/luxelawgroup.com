@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Estate Planning
+img: ESTATE_PLANNING.JPG
 permalink: /estate_planning/
 ---
 

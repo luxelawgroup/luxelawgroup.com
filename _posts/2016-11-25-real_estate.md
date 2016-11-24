@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Real Estate
+img: REAL_ESTATE.JPG
 permalink: /real_estate/
 ---
 
